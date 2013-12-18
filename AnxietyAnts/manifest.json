@@ -1,0 +1,20 @@
+//JSON- formatted table of contents for your extension
+//contains properties like your extension's name and description
+
+{
+	"manifest_version": 2, 
+
+	"name": "Anxiety Ants", 
+
+	"description": "In the same way as anxiety does, ants will appear at random times
+	and will only disappear once you accept them.", 
+
+	"version": "1.0", 
+
+	"browser_action": {
+		"default_icon": "ants_logo.png" 
+	},
+
+	"background": { "scripts" : ["ants.js"]} 
+
+}

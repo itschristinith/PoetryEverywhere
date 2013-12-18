@@ -1,0 +1,13 @@
+.env
+.DS_Store
+venv
+*.pyc
+mentionScript.py
+twitter
+dateutil
+tests
+utils
+AUTHORS
+LICENSE
+setup.cfg
+setup.py
